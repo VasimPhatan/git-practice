@@ -8,3 +8,6 @@ feature-2 commit2<br />
 feature-2 commit3<br />
 feature-2 commit4<br />
 feature-2 commit5<br />
+
+###feature-2
+feature-3 commit1<br />
